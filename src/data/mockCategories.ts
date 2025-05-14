@@ -1,0 +1,17 @@
+export const categories = [
+  'All',
+  'Web App',
+  'Mobile App',
+  'AI',
+  'Productivity',
+  'Education',
+  'Health',
+  'Gaming',
+  'Social',
+  'Marketplace',
+  'IoT',
+  'AR/VR',
+  'Data',
+  'No-Code',
+  'Sustainability',
+];
